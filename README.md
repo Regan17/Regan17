@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Regan17
 - 👀 I’m interested in ...Coding and stuff
 - 🌱 I’m currently learning ...what is github lmao
-- 💞️ I’m looking to collaborate on ...idk anything that helps me undertsand stuff like github
+- 💞️ I’m looking to collaborate on ...idk anything that helps me undertsand tech stuff
 - 📫 How to reach me ...mail me at chiraghsp17@gmail.com
 
 <!---
