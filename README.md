@@ -1,6 +1,6 @@
 👋 Greetings! I'm @Regan17, your coding companion.
 
-<img align="right" alt="coding_gif" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+<img align="right" alt="coding_gif" width="400" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif">
 
 👀 Navigating the fascinating coding cosmos – where each line of code tells a story!
 
