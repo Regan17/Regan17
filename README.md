@@ -1,9 +1,15 @@
-👋 Hi, I’m @Regan17
+👋 Greetings! I'm @Regan17, your coding companion.
 
-👀 Exploring the coding universe and beyond!
+👀 Navigating the fascinating coding cosmos – where each line of code tells a story!
 
-🌱 Currently deciphering the secrets of GitHub. It's a journey!
+🌱 Currently demystifying GitHub; it's like tech archaeology, and I’m on a dig!
 
-💡 Seeking collaborations to unravel the mysteries of tech.
+💡 Eager to forge collaborations that unravel the tech tapestry.
+
+💻 Python aficionado – where syntax meets serendipity.
+
+🐍 Currently crafting with Django – turning ideas into web realities!
+
+🚢 Sailing through the cloud with Docker, AWS ECS, and navigating requests with Postman.
 
 📫 Let's connect! Drop me a line at chiraghsp17@gmail.com. Excited to geek out 
