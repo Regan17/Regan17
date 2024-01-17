@@ -20,7 +20,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chirag-arora-a53152233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chirag-arora-a53152233/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/chirxg17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/chirxg17/" height="30" width="40" /></a>
 </p>
-📫 Let's connect! Drop me a line at chiraghsp17@gmail.com. Excited to geek out 
 
 
 
