@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Regan17
-- 👀 I’m interested in ...Coding and stuff
-- 🌱 I’m currently learning ...what is github lmao
-- 💞️ I’m looking to collaborate on ...idk anything that helps me undertsand tech stuff
-- 📫 How to reach me ...mail me at chiraghsp17@gmail.com
 
-<!---
-Regan17/Regan17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @Regan17
+👀 Exploring the coding universe and beyond!
+🌱 Currently deciphering the secrets of GitHub. It's a journey!
+💡 Seeking collaborations to unravel the mysteries of tech.
+📫 Let's connect! Drop me a line at chiraghsp17@gmail.com. Excited to geek out together! 🚀✨
