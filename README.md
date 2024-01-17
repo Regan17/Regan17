@@ -1,6 +1,10 @@
 👋 Greetings! I'm @Regan17, your coding companion.
 
-<img align="right" alt="coding_gif" width="400" src="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">
+<div style="float: right; width: 50%; height: 0; padding-bottom: 50%; position: relative;">
+    <iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="100%" height="100%" style="position: absolute;" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+</div>
+<p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
+
 
 👀 Navigating the fascinating coding cosmos – where each line of code tells a story!
 
