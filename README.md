@@ -1,7 +1,6 @@
 👋 Greetings! I'm @Regan17, your coding companion.
 
-![image](https://github.com/Regan17/Regan17/assets/100128424/f047f9e2-c846-437f-b16d-54f8c241ec2b)
-
+<img align="right" alt="coding_gif" width="400" src="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">
 
 👀 Navigating the fascinating coding cosmos – where each line of code tells a story!
 
