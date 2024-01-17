@@ -1,5 +1,8 @@
 👋 Greetings! I'm @Regan17, your coding companion.
 
+![image](https://github.com/Regan17/Regan17/assets/100128424/f047f9e2-c846-437f-b16d-54f8c241ec2b)
+
+
 👀 Navigating the fascinating coding cosmos – where each line of code tells a story!
 
 🌱 Currently demystifying GitHub; it's like tech archaeology, and I’m on a dig!
