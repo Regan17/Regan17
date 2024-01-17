@@ -13,3 +13,6 @@
 🚢 Sailing through the cloud with Docker, AWS ECS, and navigating requests with Postman.
 
 📫 Let's connect! Drop me a line at chiraghsp17@gmail.com. Excited to geek out 
+
+Can work with:
+🌐 🐍 🐳 ☁️ 📰 🎵 💻 🎸 <html> { CSS } JS 📘 📔 📬 🐙 Git ⚛️
