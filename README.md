@@ -15,4 +15,5 @@
 📫 Let's connect! Drop me a line at chiraghsp17@gmail.com. Excited to geek out 
 
 Can work with:
-🌐 🐍 🐳 ☁️ 📰 🎵 💻 🎸 <html> { CSS } JS 📘 📔 📬 🐙 Git ⚛️
+![image](https://github.com/Regan17/Regan17/assets/100128424/c8fd49f5-ef95-4203-9802-413a2e377622)
+
